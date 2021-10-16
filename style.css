@@ -1,0 +1,262 @@
+body{
+    background-color: #FFDAC7;
+}
+.top-container{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+    color: #DDBEBE;
+    
+}
+h2{
+    background-color: cornsilk;
+}
+h5{
+    color: #C89595;
+    float: top;
+    background-color: bisque;
+    
+
+}
+h4{
+    color:#caa1a1 ;
+    padding: 2%;
+    background-color: #FFDAC7;
+    font-size: xx-large;
+    /* float: left; */
+}
+
+img{
+    border-radius: 10%;
+    background-color: #caa1a1;
+    padding: 2%;
+    
+}
+
+.name{
+    font-family: 'Patua One', cursive;
+    font-size: 50px;
+    margin-left: 420px;
+    margin-bottom: 300px;
+
+}
+.lover{
+    text-decoration: none;
+    color: #CCA8E9;
+}
+
+.heart{
+    text-decoration: none;
+    color: #CCA8E9;
+}
+
+.best{
+    text-decoration: none;
+    color: #CCA8E9;
+}
+.fei{
+    text-decoration: none;
+    color: #CCA8E9;
+}
+.forbes{
+    text-decoration: none;
+    color: #CCA8E9;
+}
+.band{
+    text-decoration: none;
+    color: #6C4A4A;
+}
+.actor
+{
+    /* background-color: #caa1a1;  */
+    padding: 1%;
+    border-radius: 5%;
+    float: left;
+    size: 50px;
+    margin-top: -15px;
+}
+.acting{
+    font-size: 20px;
+    font-family:  'Noto Sans Mono', monospace;
+    margin-top: 100px;
+}
+
+.singer{
+    padding: 1%;
+    border-radius: 5%;
+    float: right;
+    size: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.singing{
+    font-size: 20px;
+    font-family:  'Noto Sans Mono', monospace;
+    margin-top: 70px;
+    margin-left: 450px;
+}
+.recommend{
+    margin-left: 450px;
+    font-size: x-large;
+    padding: 1%;
+    background-color: #FAFCC2;
+}
+.lucky{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 450px;
+    color: #FF9292;
+}
+.fire{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 450px;
+    color: #FF9292;
+}
+.rules{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 450px;
+    color: #FF9292;
+}
+.Youth{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 325px;
+    color: #FF9292;
+}
+.Xiwei{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 450px;
+    color: #FF9292;
+}
+.Buwang{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 310px;
+    color: #FF9292;
+}
+.Wuji{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 450px;
+    color: #FF9292;
+}
+.motorbiking{
+    padding: 1%;
+    border-radius: 5%;
+    float: left;
+    size: 50px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+.motor{
+    font-size: 20px;
+    font-family:  'Noto Sans Mono', monospace;
+}
+
+.dancer{
+    padding: 1%;
+    border-radius: 5%;
+    float: right;
+    size: 50px;
+    margin-top: 20px;
+    margin-right: 48px;
+}
+
+.dancing{
+    font-size: 20px;
+    font-family:  'Noto Sans Mono', monospace;
+    margin-left: 450px;
+}
+
+.love{
+    padding: 1%;
+    border-radius: 5%;
+    float: left;
+    size: 50px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.greatness{
+    font-family:  'Noto Sans Mono', monospace;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.wang{
+    border-radius: 10%;
+    background-color: #caa1a1;
+    padding: 1.5%;
+    float: right;
+}
+
+.quotes{
+    font-size: xx-large;
+    color: #FFC898;
+}
+
+li{
+    color: #f85a97;
+}
+.instagram{
+    text-decoration: none;
+    color: rgb(235, 66, 150);
+    font-family: serif;
+    font-size: x-large;
+}
+h3{
+    font-family: serif;
+    font-size: x-large;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #f7bc4f;
+    font-size: 20px;
+    background: #e66920;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #17fa79;
+    background-image: -webkit-linear-gradient(top, #17fa79, #3498db);
+    background-image: -moz-linear-gradient(top, #17fa79, #3498db);
+    background-image: -ms-linear-gradient(top, #17fa79, #3498db);
+    background-image: -o-linear-gradient(top, #17fa79, #3498db);
+    background-image: linear-gradient(to bottom, #17fa79, #3498db);
+    text-decoration: none;
+  }
+ .button{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ff2b2b;
+    font-size: 20px;
+    background: #e6e620;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #17fa79;
+    background-image: -webkit-linear-gradient(top, #17fa79, #34d9d1);
+    background-image: -moz-linear-gradient(top, #17fa79, #34d9d1);
+    background-image: -ms-linear-gradient(top, #17fa79, #34d9d1);
+    background-image: -o-linear-gradient(top, #17fa79, #34d9d1);
+    background-image: linear-gradient(to bottom, #17fa79, #34d9d1);
+    text-decoration: none;
+  }
+  .number{
+      font-size: large;
+      font-family: monospace;
+      text-decoration: none;
+  }
